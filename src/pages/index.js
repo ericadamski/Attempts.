@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { formatReadingTime, formatPostDate } from "../utils/helpers"
 import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
@@ -30,7 +31,10 @@ class BlogIndex extends React.Component {
                     {title}
                   </Link>
                 </h3>
-                <small>{node.frontmatter.date}</small>
+                <small>
+                  {formatPostDate(node.frontmatter.date, "en-CA")} |{" "}
+                  {formatReadingTime(node.timeToRead)}
+                </small>
               </header>
               <section>
                 <p
@@ -63,6 +67,7 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          timeToRead
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title

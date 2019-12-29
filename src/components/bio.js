@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        A personal blog by <strong>{author}</strong>. Building{" "}
+        <a href="https://flawk.to">Flawk.to</a> as well as development teams.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
