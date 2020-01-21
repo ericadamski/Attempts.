@@ -4,22 +4,22 @@ date: "2020-01-03T14:37:35.397Z"
 description: Over the holidays my brother asked my what things I do/did to get where I am. I thought that was such an interesting question, and something I hadn't thought about. Here is my attempt at distilling my relative successes.
 ---
 
-I read a good amount of books on personal growth and success. I think about my actions and how they affect my life, often. But clearly not often enough. I was well caught off guard when my brother asked me:
+Recently, my brother asked me:
 
 > Why do you think you got where you are today?
 
-Let me dive into some context and how that question came up. I am the oldest of two in my family. My brother, about 4 years younger recently finished uni in the past few years, was down for the holidays. Since we don't talk often I made some time to go and chat with him. I am always trying to improve and to achieve more in my life. Which makes me interested in other people, are they similar? With my compulsive need to make all conversations interesting to me, I posed some questions about his life.
+My brother, about 4 years younger - recently finished uni, was down for the holidays. As we were spending some time together I asked him some questions.
 
 - Where does he see himself going.
 - And how does he planning on getting there.
 
-This started a great discussion which lasted about 4 hours. He talked about the things he didn't like about his current job. About the things in the industry that interested him. He came to the conclusion that the role which would make him the happiest would be CFO. This was great! I love ambition. I adore hearing how other motivated people are achieving their goals. This is where the conversation turned more argumentative. In my very opinionated opinion he wasn't doing the right things to get himself into that position.
+It started a great discussion which lasted about 4 hours. He talked about the things he didn't like about his current job. About the things in the industry that interested him. He came to the conclusion that the role which would make him the happiest would be CFO. This was great! I love ambition. I adore hearing how other motivated people are achieving their goals. Then I asked him how he planned on getting the position that made him happy. This is where the conversation turned more argumentative. In my very opinionated opinion he wasn't doing the right things to get himself into that position.
 
-My brother wanted to walk the corporate ladder. Not at the same company which he works for now, but he wanted steps. Some sort or linear path which he could follow and lead to the outcome he wanted - CFO. Now, I am not in the same industry but what I've seen can translate. And that is:
+My brother wanted to walk the corporate ladder. He wanted steps. Some sort or linear path which he could follow and lead to the outcome he wanted - CFO. Now, I am not in the same industry but what I've seen can translate. And that is:
 
 > If you want to become successful sooner, you cannot follow a predetermined, linear path. You have to be creative.
 
-I don't like the thought liking my job only later in life. I don't want to have to work somewhere to work somewhere else. So the sooner I can get to my ideal working position, the better. In my experience that means being creative and diverse.
+I want to enjoy my job now, not in 10 or 20 years. I don't want to have to work somewhere to work somewhere else. So the sooner I can get to my ideal working position, the better. In my experience that means being creative and diverse.
 
 That is when he asked me the question. **Why do you think you got where you are today?** It took me back. I think about these things often because I am still working toward my version of success. But I couldn't answer. I got stuck. What do I do that makes me different? Why did I get where I am? Why should people want me?
 
@@ -28,11 +28,9 @@ My gut reaction, as I thought about it on the spot, was luck. Which made me cons
 1. Creating opportunities - Personal Introspection
 2. Recognizing opportunities - External Networking
 
-Upfront, creating opportunity seems mutually exclusive to luck. If your success was luck, and opportunities lead to success, aren't your opportunities luck? Yes. But that is why the winning combination has to contain recognizing opportunities. Let me explain my reasoning.
-
 ## Creating Opportunities
 
-This has more to do with introspection and self care that you think. When I talk about creating opportunities, I speak more about positioning yourself that going and doing a Google search. Like any close relationships you maintain a large component that keeps them together is **trust**. When people work with you it is no different. They want someone they can trust. What they are trusted to do is different, that is where we get some variation. Here is what I think my opportunity creators are:
+This has more to do with introspection and self care than you think. When I talk about creating opportunities, I am talking about positioning yourself. Like any close relationships you maintain a large component that keeps them together is **trust**. When people work with you it is no different. They want someone they can trust. Here is what I think my opportunity creators are:
 
 - Curiosity: I am constantly asking **why** and **why not**. Nothing is impossible to me, there is always a way.
 
@@ -40,9 +38,13 @@ This has more to do with introspection and self care that you think. When I talk
 
 - Growth Mindset: I want to continually grow. I am comfortable with being wrong. Failure is all about learning and I want to continuously grow.
 
-You might be thinking, "I have all of those things. Why do I not have 'x'?". Those qualities will also not lead to trust with everyone, but what helps bridge the gap between your opportunity creators are your values. Values tell other people what you consider the guidelines to living your life. That is where initial trust can come from. That is what will bring and keep the right people in your life. If you live your values, you can connect to other like minded people, then show them how you can create value with qualities like _curiosity_, _persistence_, and having a _growth mindset_. Building trusting relationships get's you further personally and professionally.
+You might be thinking, "I have all of those things. Why do I not have 'x'?". Those qualities will also not lead to trust with everyone, but what helps bridge the gap between your opportunity creators are your values. Values tell other people what you consider the guidelines to living your life. That is where initial trust and human connection can come from. Values will bring and keep the right people in your life. If you live your values, you can connect to other like minded people, then show them how you can create value with qualities like _curiosity_, _persistence_, and having a _growth mindset_. Building trusting relationships get's you further personally and professionally.
 
-Your next question might be, "How do I find like minded people?" - which is a great question. This is where we need the winning combination of create and recognizing opportunities. Your values and opportunities are not very useful if you just keep them to yourself.
+<!-- talk about my values -->
+
+> > > I want to talk about my values here
+
+Your next question might be, "How do I find like minded people?" - which is a great question. This is where we need the winning combination of creating and recognizing opportunities. Your values and opportunity creators are not very useful if you just keep them to yourself.
 
 ## Recognizing Opportunities
 
@@ -66,4 +68,4 @@ As for recognizing opportunity; Being creative is a skill. Work on it. Think abo
 
 Opportunity is always around you. You just have to look for it. Let your values guide you and help you figure out which opportunities are right for you.
 
-First. Don't take me too seriously, but look at what I have written and come to your own conclusions. Work on yourself is never a waist of time. This was my attempt and understanding how I work to be better and get closer to my _"dream job"_. If you have any response to this I would **LOVE** to hear it - [tweet it at me](https://ctt.ac/0zyuv)!
+Working on yourself is never a waist of time. This was my attempt and understanding how I work to be better and get closer to my _"dream job"_. If you have any response to this I would **LOVE** to hear it - [tweet it at me](https://ctt.ac/0zyuv)!
