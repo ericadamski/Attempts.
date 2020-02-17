@@ -237,6 +237,6 @@ export default async (req, res) => {
 
 There it is!
 
-A relatively simple way to integrate password authentication in your React app. This does not cover handling front end tokens like [JWTs](https://jwt.io/) or cookies but they can easily be added on now that verifing passwords is complete. Let me know if you want a more concrete example of this working or want to me write a follow up about JWT and cookies.
+A relatively simple way to integrate password authentication in your React app. This does not cover handling front end tokens like [JWTs](https://jwt.io/) or cookies but they can easily be added on now that verifying passwords is complete. Let me know if you want a more concrete example of this working or want to me write a follow up about JWT and cookies.
 
 Thanks for reading!
