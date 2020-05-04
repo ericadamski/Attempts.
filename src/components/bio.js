@@ -54,12 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        A personal blog by <strong>{author}</strong>. Building{" "}
-        <a href="https://flawk.to">Flawk.to</a> as well as development teams.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+        A personal blog by <strong>{author}</strong>. Building myself into
+        financial independence starting with{" "}
+        <a href="https://flawk.to">Flawk.to</a>. You should follow him on{" "}
+        <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
       </p>
     </div>
   )

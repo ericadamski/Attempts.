@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Attempts.`,
     author: `Eric Adamski`,
-    description: `A collection of words that depict my struggles, revelations and observations about my work as a Director of Software Development, life, and continuous attempts to build a business.`,
-    siteUrl: `https://blog.ericadamski.dev/`,
+    description: `A collection of words that depict my struggles, revelations and observations about my work, life, and continuous attempts to build a business.`,
+    siteUrl: `https://attempts.space/`,
     social: {
       twitter: `zealigan`,
     },
