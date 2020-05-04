@@ -19,13 +19,13 @@ So I am taking a stand.
 
 I am going to challenge myself into financial independence. Into my dream job, my destiny, into an entrepreneur.
 
-Over the next year I am going to create and launch 6 new products and work to make them profitable. The most successful business I run currently is [Team-Img](https://team-img.now.sh). It is profitable, but no where near sustainable for me to live on with only \$7 MMR.
+Over the next year I am going to create and launch 6 new products and work to make them profitable. The most successful business I run currently is [Team-Img](https://team-img.now.sh). It is profitable, but no where near sustainable for me to live on with only \$7 MRR.
 
 Thats right, 7 whole dollars. The math is hard but that is a total of \$84 a year. Not much to live on.
 
 But that is my inspiration. [Team-Img](https://team-img.now.sh) was the catalyst that showed me I could produce something useful.
 
-And so begins my journey. Starting from \$7MMR I will build a life for myself and my family by working on things I love with people who care. It is going to be an adventure, a challenge but most of all it will be - hard. Also fun. I am thrilled to be going on this journey and it starts today.
+And so begins my journey. Starting from \$7MRR I will build a life for myself and my family by working on things I love with people who care. It is going to be an adventure, a challenge but most of all it will be - hard. Also fun. I am thrilled to be going on this journey and it starts today.
 
 With inspiration from [Pulsar](https://www.trypulsar.com/) I am going to count [Flawk](https://flawk.to), which is super early alpha, as my first of 6 products. I have 6 others in the pipeline and over the next year I am going to attempt to make each one a profitable product.
 
